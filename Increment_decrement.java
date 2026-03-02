@@ -5,7 +5,7 @@ public class Increment_decrement {
 	public static void main(String[] args) {
 		int i =90;
 		i++;//i value 91
-		int j =i+9;// value of jn is 100 
+		int j =i+9;// value of j is 100 
 		System.out.println(i++);//i is 91 for printing and the value increment by one 92
 		
 		System.out.println("------------------");
@@ -40,3 +40,4 @@ public class Increment_decrement {
 		System.out.println(j);//print value of j 98
 	}
 }
+
